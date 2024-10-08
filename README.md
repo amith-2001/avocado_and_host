@@ -1,6 +1,6 @@
-# Avocado Host
+# Avocado & Host
 
-Welcome to **Avocado Host**, your dynamic platform for transforming trending social media content into engaging podcasts. With Avocado Host, you can stay updated with the latest from Reddit and Twitter through podcasts that feature single or multiple hosts in a variety of character voices. Explore the world's news with an unbiased perspective through our innovative application.
+Welcome to **Avocado & Host**, your dynamic platform for transforming trending social media content into engaging podcasts. With Avocado Host, you can stay updated with the latest from Reddit and Twitter through podcasts that feature single or multiple hosts in a variety of character voices. Explore the world's news with an unbiased perspective through our innovative application.
 
 ## Features
 
