@@ -2,6 +2,9 @@
 
 Welcome to **Avocado & Host**, your dynamic platform for transforming trending social media content into engaging podcasts. With Avocado Host, you can stay updated with the latest from Reddit and Twitter through podcasts that feature single or multiple hosts in a variety of character voices. Explore the world's news with an unbiased perspective through our innovative application.
 
+## Preview( Youtube )
+https://www.youtube.com/watch?v=eg3ozufytZo&t=
+
 ## Features
 
 - **Dynamic Podcast Generation**: Automatically fetches and converts the hottest topics from Reddit and Twitter into podcasts based on user input.
